@@ -639,7 +639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": 10,
+        "IDVASO": "10",
         "DESCVASO": " VASO 8-B "
       },
       "geometry": {

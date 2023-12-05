@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "IDVASO": "01",
-                "DESCVASO": " VASO 1 "
+                "DESCVASO": "VASO 1"
             },
             "geometry": {
                 "coordinates": [

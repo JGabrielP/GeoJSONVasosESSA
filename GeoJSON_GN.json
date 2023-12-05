@@ -1098,12 +1098,12 @@
                 ]
             },
             "properties": {
-                "LAD13CD": "E09000015",
+                "LAD13CD": "15",
                 "LAD13CDO": "00AQ",
                 "LAD13NM": "VASO 13",
                 "LAD13NMW": null
             },
-            "id": "E09000015"
+            "id": "15"
         },
         {
             "type": "Feature",

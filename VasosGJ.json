@@ -116,7 +116,7 @@
                 "LAD13NM": "VASO 1",
                 "LAD13NMW": null
             },
-            "id": "E09000001"
+            "id": "01"
         },
         {
             "type": "Feature",
@@ -193,7 +193,7 @@
                 "LAD13NM": "VASO 2",
                 "LAD13NMW": null
             },
-            "id": "E09000002"
+            "id": "02"
         },
         {
             "type": "Feature",

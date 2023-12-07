@@ -4503,10 +4503,10 @@
                 ]
             },
             "properties": {
-                "IDVASO": "V088",
+                "IDVASO": "V080",
                 "DESCVASO": "VASO 52"
             },
-            "id": "V088"
+            "id": "V080"
         },
         {
             "type": "Feature",
